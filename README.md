@@ -5,6 +5,7 @@
 [![reward](https://make.fun/badge/tiny-chess-01/edisonradit93/makefun-tiny-chess/reward.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
 
 High-performance Python chess engine under 4 KB designed for make.fun's tiny-chess-01 bounty.
+Optimized Sunfish architecture featuring mailbox board representation and alpha-beta search.
 
 ## Engine Architecture
 
